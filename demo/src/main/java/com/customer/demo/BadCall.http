@@ -1,0 +1,2 @@
+### Bad post request to example server
+POST localhost:8080/user/OR 1=1
